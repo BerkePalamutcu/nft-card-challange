@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit&display=swap');
+* {
+	margin: 0;
+	padding: 0;
+	font-family: 'Outfit';
+}
+body {
+	width: auto;
+	background-color: hsl(217, 54%, 11%);
+}
+.container {
+	margin: auto;
+	margin-top: 6vh;
+	width: 340px;
+	display: flex;
+	text-align: start;
+	align-items: center;
+	align-content: center;
+	flex-direction: column;
+	background-color: hsl(216, 50%, 16%);
+	border-radius: 15px;
+	box-shadow: 0px 20px 25px 15px rgba(0, 0, 0, 0.05),
+		0px 40px 30px 15px rgba(0, 0, 0, 0.1);
+}
+.main-img {
+	position: relative;
+	width: 100%;
+	display: flex;
+	max-width: 300px;
+	border-radius: 4%;
+	margin-top: 11px;
+	margin-right: 4px;
+}
+.main-img::after {
+	background: hsla(178, 100%, 50%, 0.5);
+	content: url(images/icon-view.svg);
+	position: absolute;
+	inset: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	opacity: 0;
+	transition: all 0.3s ease;
+	border-radius: 4%;
+	margin-top: 11px;
+	margin-left: 4px;
+	margin-right: 3px;
+}
+.main-img:hover:after {
+	opacity: 1;
+	cursor: pointer;
+}
+h1 {
+	margin-right: 140px;
+	margin-top: 20px;
+	font-weight: 600;
+	font-size: 18px;
+	color: hsl(0, 0%, 100%);
+}
+
+h1:hover {
+	color: hsl(178, 100%, 50%);
+	cursor: pointer;
+}
+h2 {
+	display: flex;
+	align-items: center;
+	align-content: center;
+}
+#info {
+	color: hsl(215, 51%, 70%);
+	margin-left: 25px;
+	margin-right: 10px;
+	margin-top: 20px;
+	font-size: 16px;
+	font-weight: 400;
+}
+.maincontent {
+	width: 300px;
+	display: flex;
+	align-self: flex-start;
+	justify-content: space-between;
+	margin-top: 20px;
+	margin-left: 25px;
+	margin-bottom: 20px;
+}
+#coin {
+	font-size: 14px;
+	font-weight: 300;
+	color: hsl(178, 100%, 50%);
+}
+.icon {
+	margin-right: 5px;
+}
+#avatar {
+	width: 30px;
+	margin-right: 14px;
+	border: 1px solid white;
+	border-radius: 100%;
+}
+#daysleft {
+	color: hsl(215, 51%, 70%);
+	margin-right: 9px;
+	font-weight: 300;
+	font-size: 14px;
+}
+#bottomtext {
+	color: hsl(215, 51%, 70%);
+	display: flex;
+	align-items: center;
+	align-content: center;
+	justify-content: center;
+}
+
+span {
+	padding-left: 5px;
+	color: white;
+}
+
+span:hover {
+	color: hsl(178, 100%, 50%);
+	cursor: pointer;
+}
+
+.creator {
+	display: flex;
+	border-top-style: solid;
+	border-width: 1px;
+	border-color: hsl(215, 32%, 27%);
+	padding: 14px 75px 26px 0px;
+}
+
+footer {
+	opacity: 0;
+}
