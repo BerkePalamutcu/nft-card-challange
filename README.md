@@ -7,7 +7,6 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 - [The challenge](#the-challenge)
 - [Screenshot](#screenshot)
 - [Links](#links)
-- [My process](#my-process)
 - [Built with](#built-with)
 - [What I learned](#what-i-learned)
 - [Author](#author)
@@ -97,4 +96,4 @@ Use this section to recap over some of your major learnings while working throug
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/navarcus)
+- Frontend Mentor - [@https://www.frontendmentor.io/profile/navarcus](https://www.frontendmentor.io/profile/navarcus)
