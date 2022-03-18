@@ -32,8 +32,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [https://github.com/navarcus/nft-card-challange](https://your-solution-url.com)
-- Live Site URL: [https://navarcus.github.io/nft-card-challange/](https://your-live-site-url.com)
+- Solution URL: [https://github.com/navarcus/nft-card-challange](https://github.com/navarcus/nft-card-challange)
+- Live Site URL: [https://navarcus.github.io/nft-card-challange/](https://navarcus.github.io/nft-card-challange/)
 
 
 ### Built with
