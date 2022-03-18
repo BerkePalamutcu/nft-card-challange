@@ -10,7 +10,8 @@ body {
 }
 .container {
 	margin: auto;
-	margin-top: 6vh;
+	margin-top: 15vh;
+	margin-bottom: 15vh;
 	width: 340px;
 	display: flex;
 	text-align: start;
@@ -52,7 +53,7 @@ body {
 }
 h1 {
 	margin-right: 140px;
-	margin-top: 20px;
+	margin-top: 22px;
 	font-weight: 600;
 	font-size: 18px;
 	color: hsl(0, 0%, 100%);
@@ -72,7 +73,7 @@ h2 {
 	margin-left: 25px;
 	margin-right: 10px;
 	margin-top: 20px;
-	font-size: 16px;
+	font-size: 18px;
 	font-weight: 400;
 }
 .maincontent {
@@ -85,7 +86,7 @@ h2 {
 	margin-bottom: 20px;
 }
 #coin {
-	font-size: 14px;
+	font-size: 16px;
 	font-weight: 300;
 	color: hsl(178, 100%, 50%);
 }
@@ -102,7 +103,7 @@ h2 {
 	color: hsl(215, 51%, 70%);
 	margin-right: 9px;
 	font-weight: 300;
-	font-size: 14px;
+	font-size: 16px;
 }
 #bottomtext {
 	color: hsl(215, 51%, 70%);
