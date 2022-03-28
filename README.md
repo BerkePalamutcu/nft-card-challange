@@ -33,7 +33,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### Links
 
 - Solution URL: [https://github.com/navarcus/nft-card-challange](https://github.com/navarcus/nft-card-challange)
-- Live Site URL: [https://navarcus.github.io/nft-card-challange/](https://navarcus.github.io/nft-card-challange/)
+- Live Site URL: [https://navarcus.github.io/nft-card-challange/](https://berkepalamutcu.github.io/nft-card-challange/)
 
 
 ### Built with
